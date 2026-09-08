@@ -1,0 +1,11 @@
+{
+  "scripts/pages-client.tsx": {
+    "file": "assets/pages-client--RisA7rB.js",
+    "name": "pages-client",
+    "src": "scripts/pages-client.tsx",
+    "isEntry": true,
+    "css": [
+      "assets/pages-client-BnedMnob.css"
+    ]
+  }
+}

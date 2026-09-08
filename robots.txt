@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://basharajaj.github.io/dhilali-/sitemap.xml
